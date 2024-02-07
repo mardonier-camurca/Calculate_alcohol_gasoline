@@ -1,7 +1,7 @@
 import { useState, FormEvent } from 'react';
 import './App.css'
 
-import logoImg from './assets/logo.png';
+import logoImg from './logo.png';
 
 /* Calculo: alcool / gasolina
 E se o resultado for menor 0.7 compensa usar álcool
